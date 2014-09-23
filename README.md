@@ -1,2 +1,2 @@
-minutes
-=======
+minutes and agenda
+======================
