@@ -6,7 +6,7 @@ Minutes and Agenda of the Pynxton talks
   
   - [Next meeting and agenda](https://github.com/pynxton/minutes/wiki/Next-meeting)
   - [wiki page minutes](https://github.com/pynxton/minutes/wiki/minutes) 
-- 
+
 
 Meetings are announced on the python-users mailing list as well.
 
