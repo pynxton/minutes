@@ -12,8 +12,8 @@ Meetings are announced on the python-users mailing list as well.
 
 
 
-Odeas for next talks
-~~~~~~~~~~~~~~~~~~~~~~
+### Ideas for next talks
 
-- common errors in python
-- design patterns
+
+- [ ] common errors in python
+- [ ] design patterns
