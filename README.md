@@ -10,3 +10,10 @@ Minutes and Agenda of the Pynxton talks
 
 Meetings are announced on the python-users mailing list as well.
 
+
+
+Odeas for next talks
+~~~~~~~~~~~~~~~~~~~~~~
+
+- common errors in python
+- design patterns
