@@ -19,6 +19,3 @@ Meetings are announced on the python-users mailing list as well.
 - [ ] design patterns
 
 
-### Possible future talks:
-
-- 25th of Novemeber: Anton P. on django web framework/ RNAcentral website
